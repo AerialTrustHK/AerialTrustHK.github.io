@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: AUTOSYSTEM HONG KONG AI
+  title: Aerial Trust Hong Kong
   text: >
    Our goal is to deliver the technologies developed to solve the social challenges in Hong Kong and GBA areas!
   action: # action button is optional
@@ -25,23 +25,23 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Design UTM for LAE 
-        text: Design Unmanned aircraft system traffic management (UTM) to support LAE
-        icon: bi-airplane
+      - title: Window Cleaning UAV 
+        text: Window cleaning UAV can be used to cleaning the building, windows and solar panel
+        icon: bi-drone
         # url: https://startbootstrap.com/
-      - title: Trustworthy delivery with drones 
-        text: Trustworthy delivery with drones 
+      - title: GNSS Vision Moduel 
+        text: GNSS Vision Moduel fuses multiple sensor data and compensates for individual weaknesses to provide precise localization anywhere
         icon: bi-box
         # url: https://startbootstrap.com/
       # - title: High Accuacy Mapping
       #   text: High accuacy urban mapping!
       #   icon: bi-rocket-takeoff bi-geo-alt-fill
-      - title: Trustworthty Connected and Autonomous system
-        text: Trustworthty CAV system
-        icon: bi-car-front
-      - title: High Accuacy Mapping
-        text: High accuacy urban mapping
-        icon: bi-geo-alt-fill
+      - title: UAV general platform
+        text: The UAV General Platform is an open-source development platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
+        icon: bi-drone
+      # - title: High Accuacy Mapping
+      #   text: High accuacy urban mapping
+      #   icon: bi-geo-alt-fill
       # - title: Other 1
       #   text: Some not-so long text here.
       #   icon: bi-emoji-heart-eyes
@@ -54,33 +54,33 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Trustworthy delivery with drones 
-        text: Trustworthy delivery with drones .
-        icon: Delivery_UAV.jpg
+      - title: Window Cleaning UAV 
+        text: Window Cleaning UAV
+        icon: clean_uav_1.jpg
         url: '#'
-      - title: Connected Autonomous System
-        text: Vehicle Infrastructure Collaboration
+      - title: Solar Panel Cleaning UAV
+        text: Solar Panel Cleaning UAV
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: vehicle_infrastructure_platform.jpg
+        icon: clean_uav_3.jpg
         url: '#'
-      - title: AI Classification
-        text: Trustworthy delivery with drones.
-        icon: vehicle_detection.jpg
+      - title: GNSS Vision Moduel
+        text: GNSS Vision Moduel
+        icon: GNSS_Vision_Moduel.jpg
         url: '#'
-      - title: High Accuacy Positioning
-        text: High Accuacy Positioning.
-        icon: mapping.jpg
+      - title: UAV General Platform
+        text: UAV General Platform
+        icon: Delivery_UAV.jpg
         url: '#'
-      - title: CAV mapping project
-        text: HD mapping for CAV
-        icon: mapping_HKSC.jpg
-        url: '#'
-      - title: HD Map Vectorization
-        text: HD Map Vectorization.
-        icon: vector_map.jpg
-        url: '#'
+      # - title: CAV mapping project
+      #   text: HD mapping for CAV
+      #   icon: mapping_HKSC.jpg
+      #   url: '#'
+      # - title: HD Map Vectorization
+      #   text: HD Map Vectorization.
+      #   icon: vector_map.jpg
+      #   url: '#'
   # - type: aside.html
   #   section_id: aside
   #   title: Free Download at Start Bootstrap!
@@ -94,18 +94,18 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Feng Huang
+      - title: Jiahao Hu
         text: Founder/CEO
-        image: assets/img/members/huangfeng.jpg
+        image: assets/img/members/jiahaohu.jpg
         url: '#'
       - title: Dr. Weisong Wen
         text: Research advisor
         image: assets/img/members/weisongwen.png
         url: '#'
-      # - title: Jiahao Hu
-      #   text: Engineer
-      #   image: assets/img/members/jiahaohu.jpg
-      #   url: '#'
+      - title: Ir Prof. H.C. Man
+        text: Academic/industry advisor
+        image: assets/img/members/HC-Man.jpg
+        url: '#'
       - title: Dr Winnie Tang
         text: Academic/industry advisor
         image: assets/img/members/WinnieTANG.png
