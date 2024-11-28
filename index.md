@@ -73,14 +73,14 @@ sections:
         text: UAV General Platform
         icon: Delivery_UAV.jpg
         url: '#'
-      # - title: CAV mapping project
-      #   text: HD mapping for CAV
-      #   icon: mapping_HKSC.jpg
-      #   url: '#'
-      # - title: HD Map Vectorization
-      #   text: HD Map Vectorization.
-      #   icon: vector_map.jpg
-      #   url: '#'
+      - title: CAV mapping project
+        text: HD mapping for CAV
+        icon: mapping_HKSC.jpg
+        url: '#'
+      - title: HD Map Vectorization
+        text: HD Map Vectorization.
+        icon: vector_map.jpg
+        url: '#'
   # - type: aside.html
   #   section_id: aside
   #   title: Free Download at Start Bootstrap!
@@ -128,7 +128,7 @@ sections:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
           2024
-          **AutosystemHK Beginnings**
+          **AerialTrustHK Beginnings**
         text: >-
           We begun with small group of people willing to work hard and make our
           teaching skills worth , in front of all others!
