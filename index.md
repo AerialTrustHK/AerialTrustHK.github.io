@@ -3,7 +3,7 @@ layout: home
 header:
   title: Aerial Trust Hong Kong
   text: >
-   Our goal is to deliver the technologies developed to solve the social challenges in Hong Kong and GBA areas!
+   Our goal is to enables the trustworthy and low cost autonomous UAV/drone based window cleaning in Hong Kong!
   action: # action button is optional
     label: Find Out More
     url: '#about'
