@@ -128,7 +128,7 @@ sections:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
           2024
-          **AerialTrustHK Beginnings**
+          **AerialTrustHK.ai Beginnings**
         text: >-
           We begun with small group of people willing to work hard and make our
           teaching skills worth , in front of all others!
