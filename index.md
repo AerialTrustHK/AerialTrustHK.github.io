@@ -36,7 +36,7 @@ sections:
       # - title: High Accuacy Mapping
       #   text: High accuacy urban mapping!
       #   icon: bi-rocket-takeoff bi-geo-alt-fill
-      - title: UAV general platform
+      - title: General UAV platform
         text: The UAV General Platform is an open-source development platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
         icon: \img\drone2.jpg
       # - title: High Accuacy Mapping
@@ -69,7 +69,7 @@ sections:
         text: GNSS Vision Moduel
         icon: GNSS_Vision_Moduel.jpg
         url: '#'
-      - title: UAV General Platform
+      - title: General UAV platform
         text: UAV General Platform
         icon: Delivery_UAV.jpg
         url: '#'
