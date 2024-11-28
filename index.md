@@ -106,10 +106,10 @@ sections:
         text: Academic/industry advisor
         image: assets/img/members/HC-Man.jpg
         url: '#'
-      - title: Dr Winnie Tang
-        text: Academic/industry advisor
-        image: assets/img/members/WinnieTANG.png
-        url: '#'
+      # - title: Dr Winnie Tang
+      #   text: Academic/industry advisor
+      #   image: assets/img/members/WinnieTANG.png
+      #   url: '#'
       # - title: Daniel T. Riley
       #   text: Musician, songwriter, producer.
       #   image: assets/img/members/person6.jpg
