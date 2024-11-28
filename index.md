@@ -70,7 +70,7 @@ sections:
         icon: GNSS_Vision_Moduel.jpg
         url: '#'
       - title: General UAV platform
-        text: UAV General Platform
+        text: General UAV platform
         icon: Delivery_UAV.jpg
         url: '#'
       - title: CAV mapping project
