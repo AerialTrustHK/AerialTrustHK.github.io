@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Aerial Trust Hong Kong
+  title: AerialTrustHK.ai
   text: >
    Our goal is to enables the trustworthy and low cost autonomous UAV/drone based window cleaning in Hong Kong!
   action: # action button is optional
@@ -95,11 +95,11 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Jiahao Hu
-        text: Founder/CEO
+        text: Research engineer
         image: assets/img/members/jiahaohu.jpg
         url: '#'
       - title: Dr. Weisong Wen
-        text: Research advisor
+        text: Research scientist
         image: assets/img/members/weisongwen.png
         url: '#'
       - title: Ir Prof. H.C. Man
