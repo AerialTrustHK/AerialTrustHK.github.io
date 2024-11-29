@@ -25,26 +25,26 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Window Cleaning UAV 
-        text: Window Cleaning UAV can be used to clean buildings, windows, and solar panels
+      - title: Autonomous UAV based window cleaning system
+        text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning.
         icon: \assets\img\drone1.jpg
         # url: https://startbootstrap.com/
-      - title: GNSS Vision Module 
-        text: GNSS Vision Module fuses data from multiple sensors and compensates for individual weaknesses to provide precise localization anywhere
+      - title: High accuracy integration positioning module 
+        text: Enable high accuracy and low-cost global referenced positioning service in diverse scenarios for drones.
         icon: bi-box
         # url: https://startbootstrap.com/
       # - title: High Accuacy Mapping
       #   text: High accuacy urban mapping!
       #   icon: bi-rocket-takeoff bi-geo-alt-fill
-      - title: General UAV Platform
-        text: General UAV Platform is an open-source development platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
+      - title: General UAV platform
+        text: Provide open-source development platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
         icon: \assets\img\drone2.jpg
       # - title: High Accuacy Mapping
       #   text: High accuacy urban mapping
       #   icon: bi-geo-alt-fill
       # - title: Other 1
       #   text: Some not-so long text here.
-      #   icon: bi-emoji-heart-eyes
+          icon: bi-emoji-heart-eyes
       # - title: Other 2
       #   text: Some not-so long text here.
       #   icon: bi-emoji-sunglasses-fill
