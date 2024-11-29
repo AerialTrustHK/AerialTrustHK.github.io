@@ -131,7 +131,7 @@ sections:
           **AerialTrustHK.ai Beginnings**
         text: >-
           We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          solutions to be trustworthy and low cost!
       # - image: assets/img/portfolio/thumbnails/2.jpg
       #   title: >+
       #     November 2019
