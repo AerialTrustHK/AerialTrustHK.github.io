@@ -26,11 +26,11 @@ sections:
     title: At Your Service
     services:
       - title: Autonomous UAV based window cleaning system
-        text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning.
+        text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning
         icon: \assets\img\drone1.jpg
         # url: https://startbootstrap.com/
       - title: High accuracy integration positioning module 
-        text: Enable high accuracy and low-cost global referenced positioning service in diverse scenarios for drones.
+        text: Enable high accuracy and low-cost global referenced positioning service in diverse scenarios for drones
         icon: bi-box
         # url: https://startbootstrap.com/
       # - title: High Accuacy Mapping
@@ -44,7 +44,7 @@ sections:
       #   icon: bi-geo-alt-fill
       # - title: Other 1
       #   text: Some not-so long text here.
-          icon: bi-emoji-heart-eyes
+      # icon: bi-emoji-heart-eyes
       # - title: Other 2
       #   text: Some not-so long text here.
       #   icon: bi-emoji-sunglasses-fill
