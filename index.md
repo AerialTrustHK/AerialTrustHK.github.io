@@ -49,6 +49,16 @@ sections:
       #   text: Some not-so long text here.
       #   icon: bi-emoji-sunglasses-fill
 
+  - type: services.html
+    section_id: services
+    #background_style: bg-info
+    title: Testing
+    services:
+      - title: Autonomous UAV based window cleaning solutions
+        text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning
+        icon: \assets\img\drone1.jpg
+        # url: https://startbootstrap.com/
+
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio
