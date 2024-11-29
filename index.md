@@ -23,21 +23,21 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Our service and products
     services:
-      - title: Autonomous UAV based window cleaning system
+      - title: Autonomous UAV based window cleaning solutions
         text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning
         icon: \assets\img\drone1.jpg
         # url: https://startbootstrap.com/
-      - title: High accuracy integration positioning module 
-        text: Enable high accuracy and low-cost global referenced positioning service in diverse scenarios for drones
+      - title: High accuracy integrated positioning and mapping solutions
+        text: Enable high accuracy and low-cost positioning and mapping service in diverse scenarios for drones with GNSS, IMU, vision and LiDAR
         icon: bi-box
         # url: https://startbootstrap.com/
       # - title: High Accuacy Mapping
       #   text: High accuacy urban mapping!
       #   icon: bi-rocket-takeoff bi-geo-alt-fill
       - title: General UAV platform
-        text: Provide open-source development platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
+        text: Provide extendable and general platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
         icon: \assets\img\drone2.jpg
       # - title: High Accuacy Mapping
       #   text: High accuacy urban mapping
@@ -103,7 +103,7 @@ sections:
         image: assets/img/members/weisongwen.png
         url: '#'
       - title: Ir Prof. H.C. Man
-        text: Academic/industry advisor
+        text: Academic advisor
         image: assets/img/members/HC-Man.jpg
         url: '#'
       # - title: Dr Winnie Tang
