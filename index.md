@@ -26,19 +26,19 @@ sections:
     title: At Your Service
     services:
       - title: Window Cleaning UAV 
-        text: Window cleaning UAV can be used to cleaning the building, windows and solar panel
-        icon: \img\drone1.jpg
+        text: Window Cleaning UAV can be used to clean buildings, windows, and solar panels
+        icon: \assets\img\drone1.jpg
         # url: https://startbootstrap.com/
-      - title: GNSS Vision Moduel 
-        text: GNSS Vision Moduel fuses multiple sensor data and compensates for individual weaknesses to provide precise localization anywhere
+      - title: GNSS Vision Module 
+        text: GNSS Vision Module fuses data from multiple sensors and compensates for individual weaknesses to provide precise localization anywhere
         icon: bi-box
         # url: https://startbootstrap.com/
       # - title: High Accuacy Mapping
       #   text: High accuacy urban mapping!
       #   icon: bi-rocket-takeoff bi-geo-alt-fill
-      - title: General UAV platform
-        text: The UAV General Platform is an open-source development platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
-        icon: \img\drone2.jpg
+      - title: General UAV Platform
+        text: General UAV Platform is an open-source development platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
+        icon: \assets\img\drone2.jpg
       # - title: High Accuacy Mapping
       #   text: High accuacy urban mapping
       #   icon: bi-geo-alt-fill
@@ -65,8 +65,8 @@ sections:
         # img/portfolio/thumbnails
         icon: clean_uav_3.jpg
         url: '#'
-      - title: GNSS Vision Moduel
-        text: GNSS Vision Moduel
+      - title: GNSS Vision Module
+        text: GNSS Vision Module
         icon: GNSS_Vision_Moduel.jpg
         url: '#'
       - title: General UAV platform
