@@ -3,7 +3,7 @@ layout: home
 header:
   title: Reaching New Heights in Clarity and Cleanliness with AerialTrustHK.ai
   text: >
-   Your favorite autonomous UAV/drone based window cleaning solutions in mega cities, such as Hong Kong. 
+   Your favorite autonomous UAV/drone based window cleaning solutions in mega cities, such as Hong Kong. Our vision is to revolutionize the window cleaning industry with cutting-edge UAV technology, making it safer, faster, and more sustainable for urban environments.
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -20,54 +20,56 @@ sections:
   #       url: '#page-top'
   #       class: btn-light
 
+  # - type: services.html
+  #   section_id: services
+  #   #background_style: bg-info
+  #   title: Our service and products
+  #   services:
+  #     - title: Autonomous UAV based window cleaning solutions
+  #       text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning in mega cities, such as Hong Kong 
+  #       # icon: \assets\img\drone1.jpg
+  #       icon: bi-box
+  #       # url: https://startbootstrap.com/
+  #     - title: High accuracy integrated positioning and mapping solutions
+  #       text: Enable high accuracy and low-cost positioning and mapping service in diverse scenarios for drones with GNSS, IMU, vision and LiDAR
+  #       icon: bi-box
+  #       # url: https://startbootstrap.com/
+  #     # - title: High Accuacy Mapping
+  #     #   text: High accuacy urban mapping!
+  #     #   icon: bi-rocket-takeoff bi-geo-alt-fill
+  #     - title: General UAV platform
+  #       text: Provide extendable and general platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
+  #       # icon: \assets\img\drone2.jpg
+  #       icon: bi-box
+  #     # - title: High Accuacy Mapping
+  #     #   text: High accuacy urban mapping
+  #     #   icon: bi-geo-alt-fill
+  #     # - title: Other 1
+  #     #   text: Some not-so long text here.
+  #     # icon: bi-emoji-heart-eyes
+  #     # - title: Other 2
+  #     #   text: Some not-so long text here.
+  #     #   icon: bi-emoji-sunglasses-fill
   - type: services.html
     section_id: services
-    #background_style: bg-info
-    title: Our service and products
-    services:
-      - title: Autonomous UAV based window cleaning solutions
-        text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning in mega cities, such as Hong Kong 
-        # icon: \assets\img\drone1.jpg
-        icon: bi-box
-        # url: https://startbootstrap.com/
-      - title: High accuracy integrated positioning and mapping solutions
-        text: Enable high accuracy and low-cost positioning and mapping service in diverse scenarios for drones with GNSS, IMU, vision and LiDAR
-        icon: bi-box
-        # url: https://startbootstrap.com/
-      # - title: High Accuacy Mapping
-      #   text: High accuacy urban mapping!
-      #   icon: bi-rocket-takeoff bi-geo-alt-fill
-      - title: General UAV platform
-        text: Provide extendable and general platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
-        # icon: \assets\img\drone2.jpg
-        icon: bi-box
-      # - title: High Accuacy Mapping
-      #   text: High accuacy urban mapping
-      #   icon: bi-geo-alt-fill
-      # - title: Other 1
-      #   text: Some not-so long text here.
-      # icon: bi-emoji-heart-eyes
-      # - title: Other 2
-      #   text: Some not-so long text here.
-      #   icon: bi-emoji-sunglasses-fill
-  - type: services.html
-    section_id: services
-    title: What we bring to you with drone based cleaning system
+    title: What we bring to you with drone/UAV based cleaning system?
     # https://icons.bootcss.com/
     services:
       - title: Safety
-        text: By utilizing UAV technology, we significantly reduce the risks associated with high-altitude cleaning, ensuring the safety of both workers and the public. 
+        text: By utilizing UAV and AI technology, we significantly reduce the risks associated with high-altitude cleaning, ensuring the safety of both workers and the public. 
         icon: bi bi-cone-striped
       - title: Efficiency
-        text: Our UAV systems can quickly cover large cleaning areas, enhancing the overall efficiency of the cleaning process.
+        text: Our UAV systems can quickly cover large cleaning areas, enhancing the overall efficiency of the cleaning process, based on the strong onboard sensing technologies driven by AI. 
         icon: bi-rocket-takeoff bi-geo-alt-fill
       - title: Sustainability
         text: We employ water-saving techniques and eco-friendly cleaning agents to minimize environmental impact.
         icon: bi bi-tree-fill
       - title: Affordability
         text: Through technological innovation, we lower operational costs, offering our clients competitive pricing. 
-        # icon: \assets\img\drone2.jpg
         icon: bi bi-cash-coin 
+      - title: Technological Advantages
+        text: Our UAVs are equipped with state-of-the-art navigation systems and efficient cleaning tools, capable of operating reliably in various weather conditions. Our proprietary software platform enables precise positioning, path planning and real-time monitoring, ensuring top-quality cleaning results. 
+        icon: bi bi-people-fill 
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
