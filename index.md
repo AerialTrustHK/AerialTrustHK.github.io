@@ -68,7 +68,8 @@ sections:
         text: Through technological innovation, we lower operational costs, offering our clients competitive pricing. 
         icon: bi bi-cash-coin 
       - title: Technological Advantages
-        text: Our UAVs are equipped with state-of-the-art navigation systems and efficient cleaning tools, capable of operating reliably in various weather conditions, ensuring top-quality cleaning results. 
+        text: Our UAVs 
+        # are equipped with state-of-the-art navigation systems and efficient cleaning tools, capable of operating reliably in various weather conditions, ensuring top-quality cleaning results. 
         icon: bi bi-people-fill 
 
   - type: portfolio.html
@@ -170,11 +171,11 @@ sections:
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
+    - title: +852 3400-8234
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
+      url: welson.wen@polyu.edu.hk
     - title: Twitter
       icon: bi-twitter
       url: '#'
