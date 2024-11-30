@@ -3,22 +3,22 @@ layout: home
 header:
   title: AerialTrustHK.ai
   text: >
-   Our goal is to enables the trustworthy and low cost autonomous UAV/drone based window cleaning in Hong Kong!
+   Our goal is to enables the trustworthy and low cost autonomous UAV/drone based window cleaning in Hong Kong and other mega cities. 
   action: # action button is optional
     label: Find Out More
     url: '#about'
 
 
 sections:
-  # - type: call-to-action.html
-  #   section_id: about
-  #   background_style: bg-primary
-  #   title: We've got what you need!
-  #   text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
-  #   actions:
-  #     - title: Get Started!
-  #       url: '#page-top'
-  #       class: btn-light
+  - type: call-to-action.html
+    section_id: about
+    background_style: bg-primary
+    title: We've got what you need!
+    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    actions:
+      - title: Get Started!
+        url: '#page-top'
+        class: btn-light
 
   - type: services.html
     section_id: services
