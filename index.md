@@ -29,7 +29,7 @@ sections:
         text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning in mega cities, such as Hong Kong 
         # icon: \assets\img\drone1.jpg
         icon: bi-box
-        url: https://startbootstrap.com/
+        # url: https://startbootstrap.com/
       - title: High accuracy integrated positioning and mapping solutions
         text: Enable high accuracy and low-cost positioning and mapping service in diverse scenarios for drones with GNSS, IMU, vision and LiDAR
         icon: bi-box
