@@ -174,7 +174,7 @@ sections:
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: welson.wen@polyu.edu.hk
+      url: mailto:welson.wen@polyu.edu.hk
     - title: Twitter
       icon: bi-twitter
       url: '#'
