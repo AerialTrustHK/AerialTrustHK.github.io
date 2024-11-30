@@ -50,8 +50,6 @@ sections:
       # - title: Other 2
       #   text: Some not-so long text here.
       #   icon: bi-emoji-sunglasses-fill
-  
-
   - type: services.html
     section_id: services
     title: What we bring to you with drone based cleaning system
