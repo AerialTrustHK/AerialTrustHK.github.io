@@ -3,7 +3,7 @@ layout: home
 header:
   title: Reaching New Heights in Clarity and Cleanliness with AerialTrustHK.ai
   text: >
-   Your favorite autonomous UAV/drone based window cleaning solutions in mega cities, such as Hong. 
+   Your favorite autonomous UAV/drone based window cleaning solutions in mega cities, such as Hong Kong. 
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -29,7 +29,7 @@ sections:
         text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning in mega cities, such as Hong Kong 
         # icon: \assets\img\drone1.jpg
         icon: bi-box
-        # url: https://startbootstrap.com/
+        url: https://startbootstrap.com/
       - title: High accuracy integrated positioning and mapping solutions
         text: Enable high accuracy and low-cost positioning and mapping service in diverse scenarios for drones with GNSS, IMU, vision and LiDAR
         icon: bi-box
@@ -84,13 +84,13 @@ sections:
         icon: vector_map.jpg
         url: '#'
   
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+  # - type: aside.html
+  #   section_id: aside
+  #   title: Free Download at Start Bootstrap!
+  #   actions:
+  #     - title: Download Now!
+  #       url: https://startbootstrap.com/themes/creative/
+  #       class: btn-light
 
   - type: members.html
     section_id: members
