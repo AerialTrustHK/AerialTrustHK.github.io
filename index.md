@@ -67,7 +67,7 @@ sections:
       - title: Affordability
         text: Through technological innovation, we lower operational costs, offering our clients competitive pricing. 
         # icon: \assets\img\drone2.jpg
-        icon: bi bi-cash-coin
+        icon: bi bi-cash-coin 
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
