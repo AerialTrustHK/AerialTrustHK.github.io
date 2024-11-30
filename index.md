@@ -26,7 +26,7 @@ sections:
     title: Our service and products
     services:
       - title: Autonomous UAV based window cleaning solutions
-        text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning
+        text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning in mega cities, such as Hong Kong 
         # icon: \assets\img\drone1.jpg
         icon: bi-box
         # url: https://startbootstrap.com/
@@ -79,10 +79,10 @@ sections:
         text: HD mapping for CAV
         icon: mapping_HKSC.jpg
         url: '#'
-      - title: HD Map Vectorization
-        text: HD Map Vectorization.
-        icon: vector_map.jpg
-        url: '#'
+      # - title: HD Map Vectorization
+      #   text: HD Map Vectorization.
+      #   icon: vector_map.jpg
+      #   url: '#'
   # - type: aside.html
   #   section_id: aside
   #   title: Free Download at Start Bootstrap!
@@ -103,11 +103,11 @@ sections:
       - title: Dr. Weisong Wen
         text: Research scientist
         image: assets/img/members/weisongwen.png
-        url: '#'
+        url: 'https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-wen-weisong/'
       - title: Ir Prof. H.C. Man
         text: Academic advisor
         image: assets/img/members/HC-Man.jpg
-        url: '#'
+        url: 'https://www.polyu.edu.hk/en/ise/people/academic-staff/hc-man/'
       # - title: Dr Winnie Tang
       #   text: Academic/industry advisor
       #   image: assets/img/members/WinnieTANG.png
