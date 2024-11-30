@@ -67,10 +67,9 @@ sections:
       - title: Affordability
         text: Through technological innovation, we lower operational costs, offering our clients competitive pricing. 
         icon: bi bi-cash-coin 
-      - title: Technological Advantages
-        text: Our UAVs 
-        # are equipped with state-of-the-art navigation systems and efficient cleaning tools, capable of operating reliably in various weather conditions, ensuring top-quality cleaning results. 
-        icon: bi bi-people-fill 
+      # - title: Technological Advantages
+      #   text: Our UAVs are equipped with state-of-the-art navigation systems and efficient cleaning tools, capable of operating reliably in various weather conditions, ensuring top-quality cleaning results. 
+      #   icon: bi bi-people-fill 
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -168,7 +167,7 @@ sections:
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
+      Our team originated from Hong Kong. Our UAVs are equipped with state-of-the-art navigation systems and efficient cleaning tools, capable of operating reliably in various weather conditions, ensuring top-quality cleaning results. Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
     - title: +852 3400-8234
