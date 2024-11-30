@@ -79,17 +79,17 @@ sections:
         text: HD mapping for CAV
         icon: mapping_HKSC.jpg
         url: '#'
-      # - title: HD Map Vectorization
-      #   text: HD Map Vectorization.
-      #   icon: vector_map.jpg
-      #   url: '#'
-  # - type: aside.html
-  #   section_id: aside
-  #   title: Free Download at Start Bootstrap!
-  #   actions:
-  #     - title: Download Now!
-  #       url: https://startbootstrap.com/themes/creative/
-  #       class: btn-light
+      - title: HD Map Vectorization
+        text: HD Map Vectorization.
+        icon: vector_map.jpg
+        url: '#'
+  - type: aside.html
+    section_id: aside
+    title: Free Download at Start Bootstrap!
+    actions:
+      - title: Download Now!
+        url: https://startbootstrap.com/themes/creative/
+        class: btn-light
 
   - type: members.html
     section_id: members
