@@ -28,7 +28,7 @@ sections:
       - title: Autonomous UAV based window cleaning solutions
         text: Enable low-cost and trustworthy autonomous window cleaning and buildings cleaning
         # icon: \assets\img\drone1.jpg
-        icon: bi-airplane
+        icon: bi-box
         # url: https://startbootstrap.com/
       - title: High accuracy integrated positioning and mapping solutions
         text: Enable high accuracy and low-cost positioning and mapping service in diverse scenarios for drones with GNSS, IMU, vision and LiDAR
@@ -40,7 +40,7 @@ sections:
       - title: General UAV platform
         text: Provide extendable and general platform for UAV developers, offering tools to design, test, and deploy UAV systems and modules 
         # icon: \assets\img\drone2.jpg
-        icon: bi-car-front
+        icon: bi-box
       # - title: High Accuacy Mapping
       #   text: High accuacy urban mapping
       #   icon: bi-geo-alt-fill
