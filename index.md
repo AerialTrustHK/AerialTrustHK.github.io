@@ -53,20 +53,21 @@ sections:
   - type: services.html
     section_id: services
     title: What we bring to you with drone based cleaning system
+    # https://icons.bootcss.com/
     services:
       - title: Safety
         text: By utilizing UAV technology, we significantly reduce the risks associated with high-altitude cleaning, ensuring the safety of both workers and the public. 
         icon: bi bi-cone-striped
       - title: Efficiency
         text: Our UAV systems can quickly cover large cleaning areas, enhancing the overall efficiency of the cleaning process.
-        icon: bi-box
+        icon: bi-rocket-takeoff bi-geo-alt-fill
       - title: Sustainability
         text: We employ water-saving techniques and eco-friendly cleaning agents to minimize environmental impact.
-        icon: bi-rocket-takeoff bi-geo-alt-fill
+        icon: bi bi-tree-fill
       - title: Affordability
         text: Through technological innovation, we lower operational costs, offering our clients competitive pricing. 
         # icon: \assets\img\drone2.jpg
-        icon: bi-box
+        icon: bi bi-cash-coin
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
