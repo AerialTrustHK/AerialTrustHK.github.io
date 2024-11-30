@@ -56,7 +56,7 @@ sections:
     services:
       - title: Safety
         text: By utilizing UAV technology, we significantly reduce the risks associated with high-altitude cleaning, ensuring the safety of both workers and the public. 
-        icon: bi-box
+        icon: bi bi-cone-striped
       - title: Efficiency
         text: Our UAV systems can quickly cover large cleaning areas, enhancing the overall efficiency of the cleaning process.
         icon: bi-box
