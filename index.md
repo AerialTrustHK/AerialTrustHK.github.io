@@ -68,7 +68,7 @@ sections:
         text: Through technological innovation, we lower operational costs, offering our clients competitive pricing. 
         icon: bi bi-cash-coin 
       - title: Technological Advantages
-        text: Our UAVs are equipped with state-of-the-art navigation systems and efficient cleaning tools, capable of operating reliably in various weather conditions. Our proprietary software platform enables precise positioning, path planning and real-time monitoring, ensuring top-quality cleaning results. 
+        text: Our UAVs are equipped with state-of-the-art navigation systems and efficient cleaning tools, capable of operating reliably in various weather conditions, ensuring top-quality cleaning results. 
         icon: bi bi-people-fill 
 
   - type: portfolio.html
